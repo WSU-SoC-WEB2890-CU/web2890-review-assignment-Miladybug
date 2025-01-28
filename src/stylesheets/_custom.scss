@@ -1,11 +1,19 @@
 // THEME COLORS 
-$teal-dark:    #0d503c;
-$teal-light:  #20c997;
-$orange: #fd7e14;
-$footer: #151414;
+// $teal-dark:    #0d503c;
+// $teal-light:  #20c997;
+// $orange: #fd7e14;
+// $footer: #151414;
 
-$primary: $teal-dark;
-$secondary: $teal-light;
+$dark-green: #3A8C56;
+$light-green: #46A64C;
+$orange: #F29B30;
+$main-red: #F21313;
+$maroon: #8C1414;
+
+$primary: $light-green;
+$secondary: $dark-green;
+$footer: $maroon;
+$info: $main-red;
 
 // ACCORDION OVERRIDES
 $accordion-padding-y: 1.5rem;
