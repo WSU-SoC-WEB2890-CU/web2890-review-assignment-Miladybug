@@ -11,11 +11,12 @@
 
 .portfolio-box {
   position: relative;
-  width: 100%;
+  width: 75%;
   height: 18.5rem;
   overflow: hidden;
-  margin-bottom: 1.2rem;
+  // margin-bottom: 1.2rem;
   border-top: 0.5rem solid lighten($primary, 20%);
+  margin: 1.5rem auto;
 
   img {
     width: 100%;
