@@ -1,1 +1,15 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+Changed home logo
+Changed nav links to relevant sections
+Made nav links go to page sections
+Changed intro images and text
+Changed "Services" to academic stuff
+Changed icons, images, and text for all "Services" sections
+Changed "Companies" to tools I use and updated logos
+Changed "Testimonials" to work experience
+Had job experience link to contact
+Changed questions in FAQ
+Added portfolio projects
+Updated "Get Started" to basic contact info
+Changed colors and content in footer
